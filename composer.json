@@ -2,7 +2,6 @@
     "name": "carlos-101/php-form-validator",
     "description": "package to validate data from forms",
     "type": "library",
-    "version" : "1.0",
     "authors": [
         {
             "name": "carlos bumba",
@@ -14,6 +13,6 @@
             "Nio01\\Validator\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "1.0",
     "require": {}
 }
