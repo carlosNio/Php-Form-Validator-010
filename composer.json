@@ -2,6 +2,7 @@
     "name": "carlos-101/php-form-validator",
     "description": "package to validate data from forms",
     "type": "library",
+    "version" : "1.0",
     "authors": [
         {
             "name": "carlos bumba",
